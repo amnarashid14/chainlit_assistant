@@ -1,9 +1,13 @@
 ```
-# 🤖 Chainlit AI Assistant (3 Chatbot Variants)```
+# 🤖 Chainlit AI Assistant (3 Chatbot Variants)
 
 This project showcases a progression of AI chat agents built using **Chainlit** and **OpenAI Agent SDK** — from a basic chatbot to a streamed and session-aware conversational assistant.
 
-Created with ❤️ by [Amna Rashid](https://github.com/amnarashid14)
+- 🌐 **Chainlit** for conversational UI
+- 🧠 **OpenAI Agent SDK** as the agentic framework
+- 💬 **Gemini** and **OpenRouter** for LLM integration
+
+A hands-on example of building your own AI agent with personality, tools, and an intuitive web interface.
 
 ---
 
